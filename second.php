@@ -77,7 +77,7 @@
         	<div class="first-img row">
          		<div class="col-lg-12 col-md-12 col-12">
 					<img src="images/woman.png" class="img-fluid float-right"style="transform:translateY(140px)">
-					<img src="images/vector 1.png"class="mx-auto" style="width:85%;height:auto;transform:translateX(5%)">
+					<img src="images/vector.png"class="mx-auto" style="width:85%;height:auto;transform:translateX(5%)">
 					<img src="images/man.png" class="img-fluid float-left">
 				</div>	
       		</div>
