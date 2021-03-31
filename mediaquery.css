@@ -1,13 +1,13 @@
-
-
 /* Media query for devices below 768px */
-@media screen and (max-width: 768px) {
-.pg1-row2{
-	flex-direction: column;
+@media screen and(max-width:780px){
+.list-group{
+    display:none;
 }
 
-.pg1-row2 .text{
-	margin-bottom: 90px;
+.dropdown-content{
+    flex-direction:column;
 }
-
+.first-img{
+    display:none;
+}
 }
